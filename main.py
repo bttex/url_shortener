@@ -10,7 +10,7 @@ language = st.radio("Escolha o idioma / Choose the language", ["Português", "En
 
 # Dicionário de traduções
 translations = {
-    "header": {"Português": "Encurtador de links com Fallback", "English": "Link Shortener with Fallback"},
+    "header": {"Português": "Encurtador de links", "English": "Link Shortener"},
     "input_placeholder": {"Português": "Cole o link para encurtar:", "English": "Paste the link to shorten:"},
     "success_message": {"Português": "URL encurtada: {}", "English": "Shortened URL: {}"},
     "error_message": {"Português": "Erro ao encurtar a URL: {}", "English": "Error shortening the URL: {}"},
