@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 
 # Configuração da página
-st.set_page_config(page_title="Encurtador", layout="centered")
+st.set_page_config(page_title="Encurtador", layout="centered",page_icon="🔗")
 
 # Seleção de idioma
 language = st.radio("Escolha o idioma / Choose the language", ["Português", "English"])
